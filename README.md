@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bân Bân</h1>
 <h3 align="center">I'm a normal person, I just program for fun =))</h3>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 - 🌱 I’m currently learning **Python, HTML,...**
 
 - 📫 How to reach me **gbgamer264@gmail.com**
