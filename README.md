@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-- 🌱 I’m currently learning **Python, HTML,...**
+- 🌱 I’m currently learning **C++, Python, HTML,...**
 
 - 📫 How to reach me **gbgamer264@gmail.com**
 
